@@ -12,4 +12,8 @@
       <a href="https://www.codechef.com/JAN221C/problems/PINBS" target="_blank">QUESTION 3</a> </br>
       <a href="https://www.codechef.com/viewsolution/55986059" target="_blank">SOLUTION </a>
   </li>
+   <li>
+      <a href="https://codeforces.com/contest/1624/problem/A" target="_blank">QUESTION 4</a> </br>
+      <a href="https://codeforces.com/contest/1624/submission/142380277" target="_blank">SOLUTION </a>
+  </li>
 </ol>
