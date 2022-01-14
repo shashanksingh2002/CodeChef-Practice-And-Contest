@@ -1,5 +1,5 @@
 <h1>CODECHEF</h1>
-<a href="https://www.codechef.com/users/s_h_a_z_a_m" target="_blank"><h2>CODECHEF PROFILE</h2></a>
+<a href="https://www.codechef.com/users/s_h_a_z_a_m" target="_blank">CODECHEF PROFILE</a>
 
 
 
