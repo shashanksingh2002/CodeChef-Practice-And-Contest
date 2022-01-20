@@ -56,3 +56,22 @@
       <a href="https://www.codechef.com/viewsolution/56425102" target="_blank">SOLUTION </a>
   </li>
 </ol>
+<h1> CodeChef Starters 22 (Rated for Div-2 & Div-3)</h1>
+<ol>
+    <li>
+      <a href="https://www.codechef.com/START22C/problems/ELECTIONS" target="_blank">QUESTION 1</a> </br>
+      <a href="https://www.codechef.com/viewsolution/56624448" target="_blank">SOLUTION </a>
+  </li>
+  <li>
+      <a href="https://www.codechef.com/START22C/problems/EQCARDGAME" target="_blank">QUESTION 2</a> </br>
+      <a href="https://www.codechef.com/viewsolution/56630794" target="_blank">SOLUTION </a>
+  </li>
+  <li>
+      <a href="https://www.codechef.com/START22C/problems/INTSEQ" target="_blank">QUESTION 3</a> </br>
+      <a href="https://www.codechef.com/viewsolution/56647512" target="_blank">SOLUTION </a>
+  </li>
+  <li>
+      <a href="https://www.codechef.com/START22C/problems/EVENXOR" target="_blank">QUESTION 4</a> </br>
+      <a href="https://www.codechef.com/viewsolution/566727702" target="_blank">SOLUTION </a>
+  </li>
+</ol>
